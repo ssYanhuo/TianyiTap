@@ -301,8 +301,8 @@
 				<dur>240</dur>
 				<n>63</n>
 				<v>64</v>
-				<y><![CDATA[sa]]></y>
-				<p><![CDATA[s a]]></p>
+				<y><![CDATA[ka]]></y>
+				<p><![CDATA[k_h a]]></p>
 				<nStyle>
 					<v id="accent">50</v>
 					<v id="bendDep">0</v>
@@ -426,8 +426,8 @@
 				<dur>240</dur>
 				<n>75</n>
 				<v>64</v>
-				<y><![CDATA[a]]></y>
-				<p><![CDATA[a]]></p>
+				<y><![CDATA[da]]></y>
+				<p><![CDATA[t a]]></p>
 				<nStyle>
 					<v id="accent">50</v>
 					<v id="bendDep">0</v>
@@ -451,8 +451,8 @@
 				<dur>240</dur>
 				<n>68</n>
 				<v>64</v>
-				<y><![CDATA[da]]></y>
-				<p><![CDATA[t a]]></p>
+				<y><![CDATA[dong]]></y>
+				<p><![CDATA[t UN]]></p>
 				<nStyle>
 					<v id="accent">50</v>
 					<v id="bendDep">0</v>
@@ -589,10 +589,10 @@
 					<v id="vibLen">31</v>
 					<v id="vibType">1</v>
 					<seq id="vibDep">
-						<cc><p>45270</p><v>64</v></cc>
+						<cc><p>45329</p><v>64</v></cc>
 					</seq>
 					<seq id="vibRate">
-						<cc><p>45270</p><v>50</v></cc>
+						<cc><p>45329</p><v>50</v></cc>
 					</seq>
 				</nStyle>
 			</note>
@@ -914,8 +914,8 @@
 				<dur>240</dur>
 				<n>75</n>
 				<v>64</v>
-				<y><![CDATA[wa]]></y>
-				<p><![CDATA[ua]]></p>
+				<y><![CDATA[ku]]></y>
+				<p><![CDATA[k_h u]]></p>
 				<nStyle>
 					<v id="accent">50</v>
 					<v id="bendDep">0</v>
